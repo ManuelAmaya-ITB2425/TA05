@@ -8,6 +8,6 @@ Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia art
 
 - [Les aplicacions de la IA](Las_aplicaciones_de_la_IA.md)
 - [Impacte al sector](inpacto_en_el_sector.md)
-- [Impacte ambiental]()
+- [Impacte ambiental](Impacto_ambiental.md)
 - [Propostes per minimitzar els impactes ambientals]()
 
