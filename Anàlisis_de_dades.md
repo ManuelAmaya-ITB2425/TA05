@@ -6,13 +6,8 @@ Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia art
 
 ### Lista
 
-- [Les aplicacions de la IA].(Las_aplicaciones_de_la_IA.md)
-- Impacte al sector.
-- Impacte ambiental.
-- Propostes per minimitzar els impactes ambientals.
+- [Les aplicacions de la IA](Las_aplicaciones_de_la_IA.md)
+- [Impacte al sector]()
+- [Impacte ambiental]()
+- [Propostes per minimitzar els impactes ambientals]()
 
-### Lista Numerada
-
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
