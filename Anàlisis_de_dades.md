@@ -1,14 +1,15 @@
 # Anàlisis de dades
+_compuesto por Dylan, Manuel, Roberto y Adrià_
+## Grupo 1
 
-## Subtítulo
-
-Texto de párrafo. Puedes incluir **negritas**, *cursivas* y `código`.
+Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia artificial dedicada al anàlisis der datos, los temas a hablar seran:
 
 ### Lista
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+- Les aplicacions de la IA.
+- Impacte al sector.
+- Impacte ambiental.
+- Propostes per minimitzar els impactes ambientals.
 
 ### Lista Numerada
 
