@@ -1,7 +1,7 @@
 # Soporte tecnico
 
 
-_En este apartado colocaremos *Freshdesk AI* como referencia_
+_En este apartado colocaremos **Freshdesk AI** como referencia_
 
 
 ## Indice
