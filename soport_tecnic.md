@@ -29,4 +29,5 @@ _En este apartado colocaremos *Freshdesk AI* como referencia_
 > * Implementar centres de dades amb certificació d'energia renovable per allotjar el servei.
 > * Optimitzar el codi i els models d'aprenentatge automàtic per reduir-ne la complexitat i el consum energètic.
 > * Adoptar pràctiques com l’entrenament federat, que permet compartir dades entre sistemes sense transferir-les massivament al núvol, reduint així la càrrega de xarxa i el consum energètic.
+
 > Aquesta eina no només optimitza el suport tècnic per a persones, sinó que també té un potencial de millora ambiental si es gestiona correctament.
