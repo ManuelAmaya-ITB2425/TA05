@@ -10,7 +10,7 @@ _En este apartado colocaremos *Freshdesk AI* como referencia_
 3. [Impacte ambiental](##Impacte_ambiental)
 4. [Propostes per minimitzar els impactes ambientals](##Propostes_per_minimitzar_els_impactes_ambientals)
 
----
+<div style="page-break-after: always:"> </div>
 
 ## Las aplicaciones de la IA
 
