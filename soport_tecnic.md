@@ -3,8 +3,6 @@
 ## Les aplicaciones de la IA
 
 ## Index
-
-### Enllaços a cada apartat
 1. [Les aplicacions de la IA](##Les_aplicacions_de_la_IA)
 2. [Impacte al sector](##Impacte_al_sector)
 3. [Impacte ambiental](##Impacte_ambiental)
