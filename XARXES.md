@@ -8,4 +8,6 @@ Aquí hablaremos sobre como ha impactado las IA (Inteligencia Artificial) en el 
 
 ### Aplicaciones IA:
 - [Aplicaciones IA](./Enlaces/aplicacionesIA.md)
-- []()
+- [Impacto en el Sector](./Enlaces/impactoSector.md)
+- [Impacto Ambiental](./Enlaces/impactoAmbiental.md)
+- [Propuestas para minimizar el impacto ambiental](./Enlaces/minimizar.md)
