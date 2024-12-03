@@ -1,7 +1,8 @@
 # Soporte tecnico
 
+## Grupo 1
 
-_En este apartado colocaremos **Freshdesk AI** como referencia_
+_En este apartado colocaremos **Zendesk Answer Bot** como referencia_
 
 
 ## Indice
@@ -14,20 +15,20 @@ _En este apartado colocaremos **Freshdesk AI** como referencia_
 
 ## Las aplicaciones de la IA
 
->Freshdesk AI automatitza processos d'atenció al client, com la classificació i priorització de consultes, responent a preguntes freqüents i oferint solucions predefinides per problemes tècnics bàsics. La seva integració amb bases de coneixement permet resoldre un alt percentatge de consultes sense intervenció humana.
+>Zendesk Answer Bot es un chatbot diseñado para la asistencia técnica, capaz de ayudar a los usuarios finales respondiendo preguntas frecuentes, ofreciendo guías paso a paso para resolver problemas comunes y redirigiendo consultas más complejas a los técnicos adecuados. Gracias a su integración con bases de conocimiento empresariales, este chatbot aprende continuamente para mejorar sus respuestas y adaptarse a nuevas situaciones.
 
 ## Impacte al sector
 
->L'ús de Zendesk Answer Bot ha millorat l'eficiència en el suport tècnic, reduint el volum de consultes que necessiten intervenció humana. Això permet als tècnics centrar-se en problemes més complexes, augmentant la seva productivitat i la satisfacció dels usuaris. A més, ha reduït els temps d'espera i ha facilitat l'atenció fora de l'horari laboral, oferint una assistència contínua i automatitzada.
+>El uso de Zendesk Answer Bot ha mejorado la eficiencia en el soporte técnico, reduciendo el volumen de consultas que requieren intervención humana. Esto permite a los técnicos centrarse en problemas más complejos, aumentando su productividad y la satisfacción de los usuarios. Además, ha reducido los tiempos de espera y ha facilitado la atención fuera del horario laboral, ofreciendo asistencia continua y automatizada.
 
 ## Impacte ambiental
 
->Com altres sistemes basats en IA, Zendesk Answer Bot consumeix energia per entrenar i executar els seus models, especialment quan està integrat en entorns al núvol. Això contribueix a una petjada de carboni, especialment si els centres de dades utilitzen fonts d’energia no renovables.
+>Como otros sistemas basados en IA, Zendesk Answer Bot consume energía para entrenar y ejecutar sus modelos, especialmente cuando está integrado en entornos en la nube. Esto contribuye a una huella de carbono, especialmente si los centros de datos utilizan fuentes de energía no renovables.
 
 ## Propostes per minimizar los impactos ambientales
 
-> * Implementar centres de dades amb certificació d'energia renovable per allotjar el servei.
-> * Optimitzar el codi i els models d'aprenentatge automàtic per reduir-ne la complexitat i el consum energètic.
-> * Adoptar pràctiques com l’entrenament federat, que permet compartir dades entre sistemes sense transferir-les massivament al núvol, reduint així la càrrega de xarxa i el consum energètic.
+> * Implementar centros de datos con certificación de energia renovable para alojar el servicio.
+> * Optimitzar el codigo y los modelos de aprendizaje automatico para reducir la complejidad y el consumo energetico.
+> * Adoptar practicas como el entrenamiento federado, que permite compartir datos entre sistemas sin transferirlos masivamente a la nube, reduciendo asi la carga de red y el consumo energetico.
 > 
->> Aquesta eina no només optimitza el suport tècnic per a persones, sinó que també té un potencial de millora ambiental si es gestiona correctament.
+>> Esta herramienta no solo optimiza el soporte técnico para personas, sino que también tiene un potencial de mejora ambiental si se gestiona correctamente.
