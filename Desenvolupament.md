@@ -1,12 +1,15 @@
-# Impacto de las IA en las redes
-## Grupo 1:
-_Compuesto por Dylan, Manuel, Roberto y Adrià_
-
-### Sobre que hablaré:
-Aquí hablaremos sobre como ha impactado las IA (Inteligencia Artificial) en el entorno de redes, hablaremos de las diferentes IA que afectan, pero en específico las más utilizadas y recomendadas.
-
 # Desenvolupament (Desarrollo)
- 
+_compuesto por Dylan, Manuel, Roberto, Adrià y Erick_
+
+## Grupo 1
+Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia artificial dedicada al anàlisis der datos, los temas a hablar seran:
+
+### Lista
+- [Les aplicacions de la IA](Las_aplicaciones_de_la_IA.md)
+- [Impacte al sector](inpacto_en_el_sector.md)
+- [Impacte ambiental](Impacto_ambiental.md)
+- [Propostes per minimitzar els impactes ambientals](Propostes_per_minimitzar_els_impactes_ambientals.md)
+
 ## Aplicaciones de la IA:
 - **Desarrollo de software automatizado:** Herramientas de IA que permiten generar código automáticamente, lo que acelera el proceso de desarrollo de aplicaciones.
 - **Pruebas automatizadas de software:** Los sistemas de IA pueden realizar pruebas de software, identificando errores y vulnerabilidades en el código sin intervención manual.
