@@ -1,6 +1,6 @@
-#Soport tecnic
+# Soport tecnic
 
-##Les aplicaciones de la IA
+## Les aplicaciones de la IA
 
 ## Index
 
