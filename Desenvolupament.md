@@ -1,5 +1,6 @@
 # Desenvolupament (Desarrollo)
 _compuesto por Dylan, Manuel, Roberto, Adrià y Erick_
+~~Strikethrough~~
 
 ## Grupo 1
 Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia artificial dedicada al anàlisis der datos, los temas a hablar seran:
