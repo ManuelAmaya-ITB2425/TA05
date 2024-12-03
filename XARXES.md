@@ -6,7 +6,7 @@ _Compuesto por Dylan, Manuel, Roberto y Adrià_
 ### Sobre que hablaré:
 Aquí hablaremos sobre como ha impactado las IA (Inteligencia Artificial) en el entorno de redes, hablaremos de las diferentes IA que afectan, pero en específico las más utilizadas y recomendadas.
 
-### Aplicaciones IA:
+### Enlaces a las páginas con información con el tema:
 - [Aplicaciones IA](./Enlaces/aplicacionesIA.md)
 - [Impacto en el Sector](./Enlaces/impactoSector.md)
 - [Impacto Ambiental](./Enlaces/impactoAmbiental.md)
