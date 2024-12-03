@@ -15,8 +15,11 @@ _En este apartado colocaremos **Zendesk Answer Bot** como referencia_
 
 ## Las aplicaciones de la IA
 
->Zendesk Answer Bot es un chatbot diseñado para la asistencia técnica, capaz de ayudar a los usuarios finales respondiendo preguntas frecuentes, ofreciendo guías paso a paso para resolver problemas comunes y redirigiendo consultas más complejas a los técnicos adecuados. Gracias a su integración con bases de conocimiento empresariales, este chatbot aprende continuamente para mejorar sus respuestas y adaptarse a nuevas situaciones.
-
+>Zendesk Answer Bot es un chatbot avanzado basado en inteligencia artificial, diseñado específicamente para mejorar el soporte técnico en empresas con un alto volumen de consultas. Utilizando procesamiento de lenguaje natural (NLP), este sistema es capaz de entender el lenguaje humano y proporcionar respuestas rápidas y precisas a preguntas frecuentes. Sus aplicaciones incluyen:
+> * **Respuestas automáticas:** Brinda respuestas instantáneas a consultas recurrentes relacionadas con problemas comunes
+> * **Guías interactivas:** Ofrece instrucciones paso a paso para ayudar a los usuarios a resolver incidencias por sí mismos.
+> * **Escalado a técnicos humanos:** Dirige consultas más complejas a usuarios, lo que permite a los técnicos centrarse en tareas más especializadas.
+> * **Aprendizaje continuo** Mejora constantemente su capacidad de respuesta a medidaque interactúa con los usuarios, adaptándose a nuevas situaciones y aprendiendo en cada conversación.
 ## Impacte al sector
 
 >El uso de Zendesk Answer Bot ha mejorado la eficiencia en el soporte técnico, reduciendo el volumen de consultas que requieren intervención humana. Esto permite a los técnicos centrarse en problemas más complejos, aumentando su productividad y la satisfacción de los usuarios. Además, ha reducido los tiempos de espera y ha facilitado la atención fuera del horario laboral, ofreciendo asistencia continua y automatizada.
