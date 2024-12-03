@@ -2,6 +2,6 @@
 
 ## Chatbots i assistents virtuals per a suport tècnic
 
-* **ChatGPT** *
-* **IBM Watson Assistant** *
-* **Microsoft Copilot** *
+* **ChatGPT** 
+* **IBM Watson Assistant** 
+* **Microsoft Copilot** 
