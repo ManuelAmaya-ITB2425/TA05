@@ -8,7 +8,7 @@
 * Impacte ambiental
 * Propostes per minimitzar els impactes ambientals
 
-
+---
 
 # Les aplicacions de la IA
 ## Chatbots i assistents virtuals per a suport tècnic
