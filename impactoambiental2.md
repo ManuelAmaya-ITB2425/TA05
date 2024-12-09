@@ -1,4 +1,5 @@
 ## Impacto Ambiental de Darktrace:
+El impacto ambiental de Darktrace y otras plataformas similares de IA se relaciona principalmente con el consumo energético que se requiere para operar los centros de datos y ejecutar modelos complejos de aprendizaje automático.
 
 ### 1. Alto consumo energético:
 * Requieren potentes capacidades de procesamiento para analizar grandes volúmenes de datos en tiempo real. Este tipo de análisis intensivo implica un alto consumo de energía, especialmente en los centros de datos donde se ejecutan los algoritmos de aprendizaje automático.
