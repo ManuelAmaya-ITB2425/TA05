@@ -21,4 +21,4 @@ Aquí hablaremos sobre las aplicaciones de Darktrace en la gestión de la seguri
 * Se adapta a sus acciones cotidianas para poder detectar con mayor precisión actividades fuera de lo común.
 * Esto incluye movimientos laterales en la red, un tipo de ataque que a menudo es difícil de detectar mediante métodos tradicionales.
 
-[Anterior](impactoambiental2.md) | [1](aplicacion2.md) | [2](impactosector2.md) | [3](impactoambiental2.md) | [4](propuesta2.md)| [Inicio](.md)
+[Anterior](impactoambiental2.md) | [1](aplicacion2.md) | [2](impactosector2.md) | [3](impactoambiental2.md) | [4](propuesta2.md)| [Inicio](2.md)
