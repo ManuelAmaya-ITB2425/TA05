@@ -39,3 +39,32 @@ _En este apartado colocaremos **Zendesk Answer Bot** como referencia_
 > * Adoptar practicas como el entrenamiento federado, que permite compartir datos entre sistemas sin transferirlos masivamente a la nube, reduciendo asi la carga de red y el consumo energetico.
 > 
 >> Esta herramienta no solo optimiza el soporte técnico para personas, sino que también tiene un potencial de mejora ambiental si se gestiona correctamente.
+
+
+
+###Exemple de comanda que realitza Zendesk Answer Bot en el soport tècnic para automatizar las respuestas a los clientes.
+
+...
+<script type="text/javascript">
+  window.zESettings = {
+    webWidget: {
+      answerBot: {
+        suppress: false,
+        title: {
+          '*': 'Chat with us!'
+        },
+        contactOnlyAfterQuery: true,
+        search: {
+          labels: ['I would like help.']
+        },
+        avatar: {
+          url: 'https://youravatarurl.com/image.png',
+          name: {
+            '*': 'Company logo'
+          }
+        }
+      }
+    }
+  };
+</script>
+...
