@@ -14,3 +14,8 @@ Para este sector nos enfocaremos en una IA en específica, esta será **Cisco DN
 - [Impacto en el Sector](./Enlaces/impactoSector.md)
 - [Impacto Ambiental](./Enlaces/impactoAmbiental.md)
 - [Propuestas para minimizar el impacto ambiental](./Enlaces/minimizar.md)
+
+
+
+
+[Home](index.md)
