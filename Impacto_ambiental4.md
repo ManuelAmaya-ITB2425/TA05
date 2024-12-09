@@ -17,3 +17,6 @@ La producción de hardware, como GPUs y TPUs, requiere la extracción de mineral
 
 **Optimización de modelos:** Se están desarrollando técnicas para hacer que los modelos sean más eficientes, reduciendo la cantidad de energía necesaria para entrenarlos y operarlos.
 Reutilización de hardware: Mejorar la vida útil del hardware y reciclar componentes puede reducir el impacto ambiental.
+
+
+[Anterior](inpacto_en_el_sector4.md) | [1](Las_aplicaciones_de_la_IA4.md) | [2](inpacto_en_el_sector4.md) | [3](Impacto_ambiental4.md) | [4](Propostes_per_minimitzar_els_impactes_ambientals4.md)| [Siguiente](Propostes_per_minimitzar_els_impactes_ambientals4.md)
