@@ -42,7 +42,7 @@ _En este apartado colocaremos **Zendesk Answer Bot** como referencia_
 
 
 
-###Exemple de comanda que realitza Zendesk Answer Bot en el soport tècnic para automatizar las respuestas a los clientes.
+##Exemple de comanda que realitza Zendesk Answer Bot en el soport tècnic para automatizar las respuestas a los clientes.
 
 ```
 <script type="text/javascript">
