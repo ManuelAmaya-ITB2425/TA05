@@ -58,7 +58,7 @@ _En este apartado colocaremos **Zendesk Answer Bot** como referencia_
           labels: ['I would like help.']
         },
         avatar: {
-          url: 'https://youravatarurl.com/image.png',
+          url: '#exemple',
           name: {
             '*': 'Company logo'
           }
