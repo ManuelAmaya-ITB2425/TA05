@@ -13,3 +13,5 @@ Una estrategia innovadora para reducir el consumo energético es el **entrenamie
 
 ### **Conclusión**
 Si bien herramientas como Zendesk Answer Bot pueden ofrecer una gran mejora en la eficiencia del soporte técnico y la experiencia del cliente, también pueden generar una huella ambiental debido a su consumo de energía. Sin embargo, al implementar estas estrategias para minimizar el impacto ambiental, las empresas pueden aprovechar el potencial de la IA de manera más sostenible. Estas prácticas no solo ayudan a reducir el impacto ambiental, sino que también optimizan el rendimiento de las herramientas de soporte y mejoran la eficiencia operativa en general.
+
+[Inicio](1.md) | [1](aplicaciones-de-la-ia1.md) | [2](impacto-en-el-sector1.md) | [3](impacto-ambiental1.md) | [4](propuestas-para-minimizar-los-impactos-ambientales1.md) | [5](exemple1.md) | [Siguiente](impacto-en-el-sector1.md)
