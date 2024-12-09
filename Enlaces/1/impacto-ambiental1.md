@@ -17,4 +17,4 @@ Para mitigar este impacto ambiental, muchas empresas están tomando medidas para
 ### **Conclusión**
 Aunque Zendesk Answer Bot y otras soluciones basadas en IA ofrecen grandes beneficios en términos de automatización y eficiencia, también presentan desafíos ambientales debido al alto consumo de energía de los centros de datos. El cambio hacia fuentes de energía renovable y la mejora en la eficiencia energética de los modelos de IA son cruciales para reducir el impacto ambiental y asegurar un futuro más sostenible para la tecnología.
 
-[Inicio](1.md) | [1](aplicaciones-de-la-ia1.md) | [2](impacto-en-el-sector1.md) | [3](impacto-ambiental1.md) | [4](propuestas-para-minimizar-los-impactos-ambientales1.md) | [5](exemple1.md) | [Siguiente](impacto-en-el-sector1.md)
+[Inicio](1.md) | [1](aplicaciones-de-la-ia1.md) | [2](impacto-en-el-sector1.md) | [3](impacto-ambiental1.md) | [4](propuestas-para-minimizar-los-impactos-ambientales1.md) | [5](exemple1.md) | [Siguiente](propuestas-para-minimizar-los-impactos-ambientales1.md)
