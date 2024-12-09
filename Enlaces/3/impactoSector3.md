@@ -19,3 +19,6 @@ La implementación de Cisco DNA Center en el sector de redes tiene un impacto si
 #### 4. Escalabilidad en la gestión de redes:
 - **Adaptación de la demanda:** Cisco DNA Center permite a las redes escalar dinámicamente según la demanda, optimizando los recursos de forma eficiente.
 - **Beneficio:** Facilita la expansión de las redes sin la necesidad de grandes inversiones en infraestructura.
+
+
+[Anterior](./impactoAmbiental3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Siguiente](./minimizar3.md)
