@@ -5,5 +5,8 @@ La implementación de Cisco DNA Center también tiene repercusiones ambientales,
 
 #### 1. Consumo energético elevado:
 - **Centro de datos:** Cisco DNA Center requiere una infraestructura de centros de datos robusta para funcionar, lo que conlleva un consumo energético elevado debido a la necesidad de procesamiento y almacenamiento de grandes volúmenes de datos.
-- **Impacto ambiental:**
+- **Impacto ambiental:** El alto consumo energético puede contribuir a una mayor huella de carbono, especialmente si los centros de datos no operan con energías renovables.
 
+#### 2. Generación de residuos electrónicos:
+- **Obsolescencia del hardware:** A medida que la tecnología de IA avanza, los equipos de hardware necesarios para soportar herramientas como Cisco DNA Center pueden volverse obsoletos rápidamente, lo que aumenta la cantidad de residuos electrónicos.
+- **Impacto ambiental:** Los residuos electrónicos pueden ser perjudiciales para el medio ambiente si no se gestionan adecuadamente, generando contaminación y un uso ineficiente de recursos.
