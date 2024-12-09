@@ -58,4 +58,4 @@ Julius IA resume documentos legales y ayuda a interpretar leyes y regulaciones.
 Julius IA facilita la creación de borradores legales.
 ### Investigación en políticas
 Julius IA analiza datos y tendencias para apoyar en la formulación de políticas públicas.
-[Anterior]() | [1](#) | [2](#) | [3](#) | [Siguiente](#)
+[Anterior](Anàlisis_de_dades4.md) | [1](Las aplicaciones de la IA4.md) | [2](#) | [3](#) | [Siguiente](#)
