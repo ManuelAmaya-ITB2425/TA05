@@ -1,7 +1,6 @@
 ## Aplicación de la IA Darktrace en la gestión de la seguridad:
-Aquí hablaremos sobre las aplicaciones de Darktrace en la gestión de la seguridad:
+Darktrace utiliza IA de aprendizaje automático para obtener una comprensión profunda del tráfico y el comportamiento de la red de una organización. Esto permite realizar las siguientes funciones clave:
 
-### Aplicaciones claves de la IA en gestión de la seguridad son:
 ### 1. Monitoreo continuo y visibilidad total: 
 * Análisis en tiempo real de todas las actividades dentro de la red.
 * Identifica patrones y comportamientos.
