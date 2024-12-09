@@ -20,4 +20,4 @@ Darktrace utiliza IA de aprendizaje automático para obtener una comprensión pr
 * Se adapta a sus acciones cotidianas para poder detectar con mayor precisión actividades fuera de lo común.
 * Esto incluye movimientos laterales en la red, un tipo de ataque que a menudo es difícil de detectar mediante métodos tradicionales.
 
-[Anterior](impactoambiental2.md) | [1](aplicacion2.md) | [2](impactosector2.md) | [3](impactoambiental2.md) | [4](propuesta2.md)| [Inicio](2.md)
+[Inicio](2.md) | [1](impactosector2.md) | [2](impactoambiental2.md) | [Siguiente](impactosector2.md)
