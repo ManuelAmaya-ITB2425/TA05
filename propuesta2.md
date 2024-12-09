@@ -25,4 +25,4 @@ Para abordar los desafíos medioambientales, existen varias estrategias que Dark
 
 * Tecnologías avanzadas de reutilización.
 
-[Anterior](impactosector2.md) | [1](aplicacion2.md) | [2](impactosector2.md) | [3](impactoambiental2.md) | [4](propuesta2.md)| [Siguiente](propuesta2.md)
+[Anterior](impactoambiental2.md) | [1](aplicacion2.md) | [2](impactosector2.md) | [3](impactoambiental2.md) | [4](propuesta2.md)| [Inicio](2.md)
