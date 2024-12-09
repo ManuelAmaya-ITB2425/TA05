@@ -11,4 +11,4 @@ Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia art
 
 
 
-[Home](index.md)
+[Home](../../index.md)
