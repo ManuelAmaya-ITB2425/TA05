@@ -1,4 +1,4 @@
-## Exemple de comanda que realitza Zendesk Answer Bot en el soport tècnic para automatizar las respuestas a los clientes mediante chatbots.
+### Este es un codigo utilizado por Zendesk Answer Bot para automatizar las respuestas a los clientes
 
 ```
 <script type="text/javascript">
