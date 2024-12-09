@@ -13,3 +13,5 @@ Zendesk Answer Bot es un chatbot avanzado que utiliza inteligencia artificial (I
 
 - **Aprendizaje continuo**  
   Una de las características más poderosas de Zendesk Answer Bot es su capacidad de aprendizaje continuo. A medida que el bot interactúa con los usuarios, recoge datos y aprende de cada conversación. Este aprendizaje le permite mejorar constantemente sus respuestas y adaptarse a nuevos problemas. Los algoritmos de inteligencia artificial se actualizan para refinar las respuestas y ajustar las soluciones en función de la experiencia acumulada. De este modo, el Answer Bot se hace más preciso y eficiente con el tiempo, lo que contribuye a mejorar la satisfacción del cliente y optimizar el soporte a largo plazo.
+
+[Inicio](aplicaciones-de-la-ia1.md) | [1](aplicaciones-de-la-ia1.md) | [2](impacto-en-el-sector1.md) | [3](impacto-ambiental1.md) | [4](propuestas-para-minimizar-los-impactos-ambientales1.md) | [5](exemple1.md) | [Siguiente](impacto-en-el-sector1.md)
