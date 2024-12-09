@@ -1,4 +1,4 @@
-### Las aplicaciones de la IA
+# Las aplicaciones de la IA
 
 Zendesk Answer Bot es un chatbot avanzado que utiliza inteligencia artificial (IA) y procesamiento de lenguaje natural (NLP) para ofrecer soporte técnico automatizado. Su principal función es mejorar la eficiencia del servicio de atención al cliente, reduciendo la carga de trabajo de los agentes humanos y proporcionando respuestas rápidas y precisas a los usuarios. Las principales aplicaciones de Zendesk Answer Bot incluyen:
 
