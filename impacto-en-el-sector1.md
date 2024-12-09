@@ -1,4 +1,4 @@
-# Impacte al sector
+# Impacto en el sector
 
 ### El impacto de Zendesk Answer Bot en el sector del soporte técnico es profundo y ha transformado la manera en que se gestionan las interacciones con los clientes. Entre los efectos más destacados se encuentran:
 > * **Reducción de la carga de trabajo humano:** Al automatizar tareas repetitivas y resolver consultas frecuentes, permite a los técnicos enfocarse en problemas más complejos, lo que incrementa su productividad.
