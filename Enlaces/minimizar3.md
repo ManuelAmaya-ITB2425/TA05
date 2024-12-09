@@ -19,3 +19,6 @@ A pesar de los impactos ambientales, existen diversas estrategias para mitigar l
 #### 4. Disño de IA eficiente:
 - **Algoritmos de bajo consumo:** Desarrollar y utilizar algoritmos de IA que requieren menos recursos de cómputo y energía para operar.
 - **Beneficio:** Reduce el consumo energético global de las aplicaciones de IA, ayudando a mitigar el impacto ambiental de las redes.
+
+
+[Anterior](./impactoSector3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Inicio](../XARXES.md)
