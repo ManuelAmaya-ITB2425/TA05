@@ -8,3 +8,7 @@ Aqui hablaremos sobre la inteligencia artificial Julius AI, una inteligencia art
 - [Impacte al sector](inpacto_en_el_sector4.md)
 - [Impacte ambiental](Impacto_ambiental4.md)
 - [Propostes per minimitzar els impactes ambientals](Propostes_per_minimitzar_els_impactes_ambientals4.md)
+
+
+
+[Home](index.md)
