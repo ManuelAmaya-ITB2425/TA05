@@ -22,4 +22,4 @@ Para este sector nos enfocaremos en una IA en específica, esta será **Cisco DN
 Cisco DNA Center, como IA aplicada en redes (Xarxes), es una herramienta clave para optimizar la gestión y el rendimiento de redes. Aunque presenta desafíos en cuanto al consumo energético y los residuos electrónicos, las estrategias de optimización energética, uso de energías renovables y reciclaje de hardware pueden minimizar estos impactos. Esta IA permite a los estudiantes y profesionales de ASIX comprender cómo mejorar la eficiencia, la seguridad y la escalabilidad de las redes mientras se promueve una mayor sostenibilidad ambiental.
 
 
-[Home](../index.md)
+[Home](../../index.md)
