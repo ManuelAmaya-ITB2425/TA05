@@ -15,4 +15,4 @@
 - **Uso de algoritmos sostenibles**: Priorizar algoritmos que sean menos intensivos en recursos computacionales.
 
   
-[Anterior](Impacto_ambiental4.md) | [1](Las_aplicaciones_de_la_IA4.md) | [2](inpacto_en_el_sector4.md) | [3](Impacto_ambiental4.md) | [4](Propostes_per_minimitzar_els_impactes_ambientals4.md)| [Inicio](Propostes_per_minimitzar_els_impactes_ambientals4.md)
+[Anterior](Impacto_ambiental4.md) | [1](Las_aplicaciones_de_la_IA4.md) | [2](inpacto_en_el_sector4.md) | [3](Impacto_ambiental4.md) | [4](Propostes_per_minimitzar_els_impactes_ambientals4.md)| [Inicio](Anàlisis_de_dades4.md)
