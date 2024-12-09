@@ -13,4 +13,9 @@ La implementación de Cisco DNA Center en el sector de redes tiene un impacto si
 - **Beneficios:** Incrementa la seguridad general de las redes, protegiendo datos y sistemas de ataques cibernéticos.
 
 #### 3. Reducción de costos operativos:
-- **Optimización de recursos:** 
+- **Optimización de recursos:** Al automatizar procesos y mejorar el rendimiento, Cisco DNA Center ayuda a reducir el uso de recursos y los costos operativos.
+- **Beneficio:** Las empresas ahorran dinero al mejorar la eficiencia y disminuir la necesidad de recursos adicionales para gestionar redes complejas.
+
+#### 4. Escalabilidad en la gestión de redes:
+- **Adaptación de la demanda:** Cisco DNA Center permite a las redes escalar dinámicamente según la demanda, optimizando los recursos de forma eficiente.
+- **Beneficio:** Facilita la expansión de las redes sin la necesidad de grandes inversiones en infraestructura.
