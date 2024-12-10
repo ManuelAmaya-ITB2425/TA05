@@ -8,8 +8,4 @@ A través del uso de **machine learning**, GitHub Copilot ha sido entrenado con 
 
 En este apartado, exploraremos cómo GitHub Copilot está revolucionando el mundo del desarrollo de software, las aplicaciones que ofrece, su impacto en la productividad de los desarrolladores, y algunas consideraciones sobre su uso a medida que avanza la integración de la inteligencia artificial en el proceso de programación.
 
-## Indice
-- [Les aplicacions de la IA](Las_aplicaciones_de_la_IA.md)
-- [Impacte al sector](inpacto_en_el_sector.md)
-- [Impacte ambiental](Impacto_ambiental.md)
-- [Propostes per minimitzar els impactes ambientals](Propostes_per_minimitzar_els_impactes_ambientals.md)
+[Inicio](Lista5.md) | [1](Enlaces/5/Desenvolupament5.md) | [2](aplicaciones-de-la-ia5.md) | [3](impacto-en-el-sector5.md) | [4](impacto-ambiental5.md) | [5](propuestas-para-minimizar-los-impactos-ambientales5.md) | [6](exemple1.md) | [Siguiente](impacto-en-el-sector5.md)
