@@ -1,5 +1,6 @@
 ## Propuesta para minizar los impactos ambientales de Cisco DNA Center:
 ![alt text](../Imagenes/1250668.png)
+
 Aquí propondremos ideas para minimizar el daño ambiental de Cisco DNA Center en este sector, redes informaticas.
 
 ### Minimizar daños ambientales en el sector:
