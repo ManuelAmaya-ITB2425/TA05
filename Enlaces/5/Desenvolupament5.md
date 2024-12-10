@@ -7,6 +7,8 @@ A través del uso de **machine learning**, GitHub Copilot ha sido entrenado con 
 
 En este apartado, exploraremos cómo GitHub Copilot está revolucionando el mundo del desarrollo de software, las aplicaciones que ofrece, su impacto en la productividad de los desarrolladores, y algunas consideraciones sobre su uso a medida que avanza la integración de la inteligencia artificial en el proceso de programación.
 
+![Github Copilot](https://fossa.com/blog/content/images/size/w800h400/2021/07/copilot-2.png)
+
 ---
 
 [Inicio](Lista5.md) | [1](Desenvolupament5.md) | [2](Las_aplicaciones_de_la_IA5.md) | [3](inpacto_en_el_sector5.md) | [4](Impacto_ambiental5.md) | [5](Propostes_per_minimitzar_els_impactes_ambientals5.md) | [Siguiente](Las_aplicaciones_de_la_IA5.md)
