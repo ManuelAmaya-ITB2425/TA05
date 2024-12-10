@@ -1,7 +1,6 @@
 # Impacto de las IA en las redes
 ## Grupo 1:
-_Compuesto por Dylan, Manuel, Roberto y Adrià_ ![Texto alternativo](./Imagenes/group-1_icon-icons.png){:style="width: 500px; height: 300px;"}****
-
+_Compuesto por Dylan, Manuel, Roberto y Adrià_ 
 ![ImagenGrupo1](./Imagenes/hq720.jpg)
 ### Sobre que hablaré:
 Aquí hablaremos sobre como ha impactado las IA (Inteligencia Artificial) en el entorno de redes, hablaremos de las diferentes IA que afectan, pero en específico las más utilizadas y recomendadas.
