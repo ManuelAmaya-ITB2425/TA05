@@ -1,6 +1,6 @@
 
 ---
-# Les aplicacions de la IA
+# Las aplicaciones de la IA
 
 Basada en el modelo **Codex** de OpenAI, esta herramienta utiliza machine learning para generar sugerencias de código, siendo algunas de las aplicaciones claves de esta IA son:
 
