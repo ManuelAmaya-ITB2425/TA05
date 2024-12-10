@@ -1,5 +1,4 @@
 
----
 # Las aplicaciones de la IA
 
 Basada en el modelo **Codex** de OpenAI, esta herramienta utiliza machine learning para generar sugerencias de código, siendo algunas de las aplicaciones claves de esta IA son:
@@ -9,6 +8,27 @@ Basada en el modelo **Codex** de OpenAI, esta herramienta utiliza machine learni
 
 - **Contextualización:** Utiliza el contexto del código que ya has escrito para generar automáticamente líneas que son relevantes para el fragmento en cuestión. Si, por ejemplo, estás escribiendo una función en Python para conectar a una base de datos, Copilot puede completar el código utilizando las bibliotecas y métodos más adecuados, como sugerancias. Copilot no puede ejecutar comandos en tu entorno, por razones de segurirdad del entorno del ususario.
 - **Flexibilidad:** El usuario puede aceptar, modificar o rechazar las sugerencias, lo que otorga un gran control sobre el proceso. Si una sugerencia no es útil, se puede descartar rápidamente, pero la posibilidad de tener algo preconfigurado siempre acelera la productividad.
+
+## Educacion y formación
+Copilot también actúa como una herramienta educativa, especialmente valiosa para nuevos desarrolladores o para quienes están aprendiendo nuevos lenguajes y tecnologías.
+
+- Los desarrolladores pueden aprender nuevas sintaxis, librerías y patrones de programación simplemente observando las sugerencias de Copilot.
+- Copilot puede generar explicaciones, comentarios y ejemplos que aclaran el funcionamiento del código.
+
+**Ejemplo:** Un estudiante que no está familiarizado con SQL podría escribir:
+
+    -- Crear una tabla para almacenar información de usuarios.
+
+A lo cual, la IA generará:
+
+    CREATE TABLE usuarios (
+        id SERIAL PRIMARY KEY,
+        nombre VARCHAR(100),
+        correo VARCHAR(100) UNIQUE,
+        fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    );
+
+De esta forma, los desarrolladores pueden aprender en el contexto de su trabajo, asi como, se les facilita la transición a nuevos frameworks o lenguajes.
 
 ## Refactorizacion de código
 La refactorización es el proceso de reescribir y reorganizar el código existente para mejorar su legibilidad, eficiencia y mantenibilidad, sin alterar su funcionalidad. Este proceso es clave para mantener un software robusto y escalable, especialmente en proyectos a largo plazo.
