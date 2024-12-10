@@ -1,7 +1,7 @@
 # Desenvolupament
 _compuesto por Dylan, Manuel, Roberto y Adrià_
 ## Grupo 1
-Aqui hablaremos sobre la inteligencia artificial Git, una inteligencia artificial dedicada al anàlisis der datos, los temas a hablar seran:
+Aqui hablaremos sobre la inteligencia artificial Git, una inteligencia artificial GItHub Copilot dedicada al desarrollo, los temas a hablar seran:
 ### Lista
 
 - [Les aplicacions de la IA](Las_aplicaciones_de_la_IA4.md)
