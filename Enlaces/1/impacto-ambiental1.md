@@ -5,8 +5,12 @@
 ### **Consumo energético y huella de carbono**
 El entrenamiento de modelos de inteligencia artificial (IA) es un proceso intensivo en recursos. Estos modelos necesitan una gran cantidad de poder computacional para analizar, procesar y ajustar los datos que utilizan para aprender. Este alto consumo de energía puede generar una huella de carbono considerable, ya que los centros de datos donde estos modelos se entrenan requieren una enorme cantidad de electricidad para su funcionamiento. Dependiendo de la fuente de esta electricidad, el impacto ambiental puede ser mayor, especialmente si la energía proviene de fuentes no renovables como el carbón o el gas natural.
 
+---
+
 ### **Centros de datos y su impacto**
 Los centros de datos son el corazón de la infraestructura en la nube. Estos centros alojan los servidores que ejecutan aplicaciones como Zendesk Answer Bot. Sin embargo, para operar eficientemente, estos centros necesitan enormes cantidades de energía para mantenerse en funcionamiento, y gran parte de esta energía se utiliza para mantener los servidores refrigerados debido a la carga de trabajo constante. Si los centros de datos no utilizan fuentes de energía renovables, su impacto en el medio ambiente se incrementa considerablemente, ya que dependen de la electricidad generada por combustibles fósiles.
+
+---
 
 ### **Mejores prácticas para mitigar el impacto**
 Para mitigar este impacto ambiental, muchas empresas están tomando medidas para reducir el consumo energético de sus operaciones. Algunas de las prácticas adoptadas incluyen:
