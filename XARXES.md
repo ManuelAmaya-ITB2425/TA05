@@ -9,6 +9,8 @@ Aquí hablaremos sobre como ha impactado las IA (Inteligencia Artificial) en el 
 ### IA en la que nos enfocaremos:
 Para este sector nos enfocaremos en una IA en específica, esta será **Cisco DNA Center**, el porqué nos enfocamos en esta se hablará más adelante.
 
+![alt text](./Imagenes/09768edd82b5370215a0727658047fdd.png)
+
 ### Enlaces a las páginas con información sobre la IA:
 - [Aplicaciones de las IA en las redes](./Enlaces/aplicacionesIA3.md)
 - [Impacto en el Sector](./Enlaces/impactoSector3.md)
