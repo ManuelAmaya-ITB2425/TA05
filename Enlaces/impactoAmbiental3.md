@@ -1,5 +1,5 @@
 ## Impacto ambiental de Cisco DNA Center en el sector de redes:
-
+![alt text](../Imagenes/inteligencia-artificial-medioambiente-portada-2.jpg)
 ### Impacto ambiental en el sector: 
 La implementación de Cisco DNA Center también tiene repercusiones ambientales, tanto positivas como negativas.
 
