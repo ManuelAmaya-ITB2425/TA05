@@ -10,6 +10,7 @@ El impacto ambiental de **GitHub Copilot**, como herramienta impulsada por intel
 
 Estos dispositivos no solo consumen mucha energía durante su operación, sino que también tienen un ciclo de vida corto, lo que contribuye a problemas como los desechos electrónicos. A medida que más empresas adoptan herramientas de IA similares, la demanda de hardware especializado aumenta, incrementando la presión sobre los recursos naturales y el medio ambiente.
 
+![Github Copilot](https://fossa.com/blog/content/images/size/w800h400/2021/07/copilot-2.png)
 ---
 
 [Anterior](inpacto_en_el_sector5.md) | [1](Desenvolupament5.md) | [2](Las_aplicaciones_de_la_IA5.md) | [3](inpacto_en_el_sector5.md) | [4](Impacto_ambiental5.md) | [5](Propostes_per_minimitzar_els_impactes_ambientals5.md) | [Siguiente](Propostes_per_minimitzar_els_impactes_ambientals5.md)
