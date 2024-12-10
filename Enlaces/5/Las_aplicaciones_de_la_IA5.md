@@ -33,6 +33,10 @@ De esta forma, los desarrolladores pueden aprender en el contexto de su trabajo,
 ## Refactorizacion de código
 La refactorización es el proceso de reescribir y reorganizar el código existente para mejorar su legibilidad, eficiencia y mantenibilidad, sin alterar su funcionalidad. Este proceso es clave para mantener un software robusto y escalable, especialmente en proyectos a largo plazo.
 
+<div align="center">
+  <img src="https://www.amitmerchant.com/images/copilot-chat-fix-error-code.png" alt="Copilot Interface">
+</div>
+
 - La herramienta analiza patrones comunes en tu código y propone formas más eficientes de escribirlos. Esto es útil para eliminar redundancias, mejorar la claridad y minimizar errores.
 - Copilot sugiere actualizar el código para adoptar estándares actuales, como el uso de nuevas características del lenguaje o librerías optimizadas.
 - Cuando estás implementando algoritmos, Copilot puede sugerir mejores enfoques con base en conocimientos avanzados.
