@@ -1,4 +1,5 @@
 ## Aplicación de la IA Cisco DNA Center en las redes:
+![alt text](../Imagenes/aplicaciones-moviles-con-inteligencia-artificial.png)
 Aquí hablaremos sobre las aplicaciones de Cisco DNA Center que hay implementadas en este redes informaticas.
 
 ### Aplicaciones claves de la IA en redes son:
