@@ -1,4 +1,3 @@
-#### [Home](Desenvolupament.md)
 
 ---
 # Les aplicacions de la IA
@@ -18,8 +17,6 @@ La refactorización es el proceso de reescribir y reorganizar el código existen
 - Copilot sugiere actualizar el código para adoptar estándares actuales, como el uso de nuevas características del lenguaje o librerías optimizadas.
 - Cuando estás implementando algoritmos, Copilot puede sugerir mejores enfoques con base en conocimientos avanzados.
 
-![ExVideo](https://github.com/images/modules/site/copilot/hero.jpg)
-
 ---
 
 ### Limitaciones y consideraciones
@@ -28,5 +25,7 @@ La refactorización es el proceso de reescribir y reorganizar el código existen
 2. **Validación humana necesaria:** Aunque las sugerencias sean útiles, es fundamental revisar y validar las propuestas antes de implementarlas.
 3. **Foco en tareas locales:** Copilot se centra en mejorar fragmentos específicos; las optimizaciones globales requieren intervención manual.
 
-[Inicio](Lista5.md) | [1](Desenvolupament5.md) | [2](Las_aplicaciones_de_la_IA5.md) | [3](inpacto_en_el_sector5.md) | [4](Impacto_ambiental5.md) | [5](Propostes_per_minimitzar_els_impactes_ambientals5.md) | [Siguiente](Propostes_per_minimitzar_els_impactes_ambientals5.md)
+---
+
+[Inicio](Lista5.md) | [1](Desenvolupament5.md) | [2](Las_aplicaciones_de_la_IA5.md) | [3](inpacto_en_el_sector5.md) | [4](Impacto_ambiental5.md) | [5](Propostes_per_minimitzar_els_impactes_ambientals5.md) | [Siguiente](inpacto_en_el_sector5.md)
 
