@@ -1,9 +1,8 @@
-[Home](../../README.md)
 
 ---
 
 # Desarrollo
-_compuesto por Dylan, Manuel, Roberto y Adrià_
+_compuesto por Dylan, Manuel, Roberto, Adrià y Erick_
 
 
 ## Grupo 1
@@ -18,3 +17,4 @@ Aqui hablaremos sobre la inteligencia artificial Git, una inteligencia artificia
 5. [Propostes per minimitzar els impactes ambientals](Propostes_per_minimitzar_els_impactes_ambientals5.md)
 
 ---
+[Home](../../README.md)

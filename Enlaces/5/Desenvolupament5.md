@@ -1,7 +1,5 @@
 # Desarrollo
 
----
-
 ## Introduccion a la IA
 **GitHub Copilot** es una innovadora herramienta impulsada por inteligencia artificial (IA) que está transformando la manera en que los desarrolladores escriben código. Creada por GitHub en colaboración con OpenAI, esta herramienta utiliza el poderoso modelo **Codex** para ofrecer sugerencias inteligentes y autocompletar líneas y funciones de código, todo basado en el contexto en tiempo real. Copilot no solo acelera el proceso de desarrollo, sino que también permite a los programadores escribir de forma más eficiente, aprendiendo del estilo y las mejores prácticas del código existente.
 
