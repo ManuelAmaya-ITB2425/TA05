@@ -9,7 +9,7 @@ El impacto ambiental de **GitHub Copilot**, como herramienta impulsada por intel
 3. **Hardware intensivo:** El desarrollo y la operación de modelos como Codex dependen de hardware avanzado, como GPUs y TPUs, cuya producción implica extracción de minerales, procesos de fabricación complejos y un alto impacto ambiental.
 
 <div align="center">
-  <img src="/Imagenes/copilot-chat-fix-error-code.png" alt="Copilot Interface">
+  <img src="/Imagenes/Todo-lo-que-debes-saber-sobre-los-servidores-scaled.jpeg" alt="Copilot Interface">
 </div>
 
 Estos dispositivos no solo consumen mucha energía durante su operación, sino que también tienen un ciclo de vida corto, lo que contribuye a problemas como los desechos electrónicos. A medida que más empresas adoptan herramientas de IA similares, la demanda de hardware especializado aumenta, incrementando la presión sobre los recursos naturales y el medio ambiente.
