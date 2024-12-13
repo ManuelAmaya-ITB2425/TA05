@@ -1,5 +1,21 @@
-# Desarrollo
+---
 
+# Desarrollo
+_compuesto por Dylan, Manuel, Roberto, Adrià y Erick_
+
+
+## Grupo 1
+Aqui hablaremos sobre la inteligencia artificial Git, una inteligencia artificial GItHub Copilot dedicada al desarrollo, los temas a hablar seran:
+
+### Indice
+
+1. [Introduccion](Desenvolupament5.md)
+2. [Les aplicacions de la IA](Las_aplicaciones_de_la_IA5.md)
+3. [Impacte al sector](inpacto_en_el_sector5.md)
+4. [Impacte ambiental](Impacto_ambiental5.md)
+5. [Propostes per minimitzar els impactes ambientals](Propostes_per_minimitzar_els_impactes_ambientals5.md)
+
+---
 ## ¿Qué es GitHub Copilot?
 **GitHub Copilot** es una innovadora herramienta impulsada por inteligencia artificial (IA) que está transformando la manera en que los desarrolladores escriben código. Creada por GitHub en colaboración con OpenAI, esta herramienta utiliza el poderoso modelo **Codex** para ofrecer sugerencias inteligentes y autocompletar líneas y funciones de código, todo basado en el contexto en tiempo real. Copilot no solo acelera el proceso de desarrollo, sino que también permite a los programadores escribir de forma más eficiente, aprendiendo del estilo y las mejores prácticas del código existente.
 
@@ -14,3 +30,6 @@ En este apartado, exploraremos cómo GitHub Copilot está revolucionando el mund
 ---
 
 [Inicio](Lista5.md) | [1](Desenvolupament5.md) | [2](Las_aplicaciones_de_la_IA5.md) | [3](inpacto_en_el_sector5.md) | [4](Impacto_ambiental5.md) | [5](Propostes_per_minimitzar_els_impactes_ambientals5.md) | [Siguiente](Las_aplicaciones_de_la_IA5.md)
+
+---
+[Home](../../README.md)
