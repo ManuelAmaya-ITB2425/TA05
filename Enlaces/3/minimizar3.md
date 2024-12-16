@@ -1,4 +1,7 @@
+minimizar3.md
 ## Propuesta para minizar los impactos ambientales de Cisco DNA Center:
+![alt text](../../Imagenes/1250668.png)
+
 Aquí propondremos ideas para minimizar el daño ambiental de Cisco DNA Center en este sector, redes informaticas.
 
 ### Minimizar daños ambientales en el sector:
@@ -21,4 +24,4 @@ A pesar de los impactos ambientales, existen diversas estrategias para mitigar l
 - **Beneficio:** Reduce el consumo energético global de las aplicaciones de IA, ayudando a mitigar el impacto ambiental de las redes.
 
 
-[Anterior](./impactoSector3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Inicio](./XARXES.md)
+[Anterior](./impactoSector3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Inicio](../XARXES.md)
