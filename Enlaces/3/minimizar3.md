@@ -24,4 +24,4 @@ A pesar de los impactos ambientales, existen diversas estrategias para mitigar l
 - **Beneficio:** Reduce el consumo energético global de las aplicaciones de IA, ayudando a mitigar el impacto ambiental de las redes.
 
 
-[Anterior](./impactoSector3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Inicio](../XARXES.md)
+[Anterior](./impactoSector3.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Inicio](/README.md)
