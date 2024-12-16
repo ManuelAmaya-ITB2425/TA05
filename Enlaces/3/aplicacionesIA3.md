@@ -1,4 +1,5 @@
 ## Aplicación de la IA Cisco DNA Center en las redes:
+![alt text](../../Imagenes/aplicaciones-moviles-con-inteligencia-artificial.png)
 Aquí hablaremos sobre las aplicaciones de Cisco DNA Center que hay implementadas en este redes informaticas.
 
 ### Aplicaciones claves de la IA en redes son:
@@ -25,4 +26,4 @@ Cisco DNA Center es una plataforma avanzada que utiliza Inteligencia Artificial 
 - **Automatización de configuración y gestión de redes:** Cisco DNA Center automatiza la configuración de dispositivos de red, la gestión del tráfico y la implementación de políticas, lo que reduce la intervención manual.
 - **Beneficios:** Mejora la eficiencia operativa y reduce los errores humanos en la gestión de redes.
 
-[Inicio](./XARXES.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Siguiente](./impactoAmbiental3.md)
+[Inicio](../XARXES.md) | [1](./aplicacionesIA3.md) | [2](./impactoAmbiental3.md) | [3](./impactoSector3.md) | [4](./minimizar3.md)| [Siguiente](./impactoAmbiental3.md)
