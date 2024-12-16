@@ -21,3 +21,6 @@ Para poder publicar tu proyecto en GitHub Pages debemos seguir los siguientes pa
 ![ImagenPages5](./Imagenes/pages5.png)
 
 ![ImagenPages6](./Imagenes/pages6.png)
+
+
+[Home](./README.md)
