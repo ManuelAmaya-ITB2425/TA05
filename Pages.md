@@ -4,11 +4,11 @@ Para poder publicar tu proyecto en GitHub Pages debemos seguir los siguientes pa
 
 ![ImagenPages1](./Imagenes/pages1.jpg)
 
-2. Antes de configurar nada deberemos asegurarnos de que nuestro proyecto este en publo y no privado, ya que si esta en privado no podremos añadir nuestro proyecto a Pages. Solo podriamos añadirlo aun estando en privado pagando, para ello, debemos ir a **General** bajar hasta donde ponga **Danger Zone** y dentro de esta modificar el apartado de **Change repository visibility**:
+2. Antes de configurar nada deberemos asegurarnos de que nuestro proyecto esté en público y no privado, ya que si está en privado no podremos añadir nuestro proyecto a Pages. Solo podríamos añadirlo aún estando en privado pagando, para ello, debemos ir a **General** bajar hasta donde ponga **Danger Zone** y dentro de esta modificar el apartado de **Change repository visibility**:
 
 ![ImagenPages2](./Imagenes/pages2.jpg)
 
-3. Despues debemos ir al apartado de **Pages** para añadir nuestro proyecto:
+3. Después debemos ir al apartado de **Pages** para añadir nuestro proyecto:
 
 ![ImagenPages3](./Imagenes/pages3.jpg)
 
@@ -22,5 +22,6 @@ Para poder publicar tu proyecto en GitHub Pages debemos seguir los siguientes pa
 
 ![ImagenPages6](./Imagenes/pages6.png)
 
+**Una vez seguido estos pasos ya abríamos añadido nuestro proyecto a GitHub Pages.**
 
 [Home](./README.md)
