@@ -7,10 +7,10 @@ Para poder publicar tu proyecto en GitHub Pages debemos seguir los siguientes pa
 3. Despues debemos ir al apartado de **Pages** para añadir nuestro proyecto:
 ![ImagenPages3](./Imagenes/pages3.jpg)
 4. Veremos que donde pone **None** hay un desplegable donde deberemos elegir la rama que queremos añadir a Pages:
-![ImagenPages4](./Imagenes/pages4.jpg)
+![ImagenPages4](./Imagenes/pages4.png)
 5. En nuestro caso queremos que esta sea la main, una vez elegida debemos darle a **Save** para que se guarde:
-![ImagenPages5](./Imagenes/pages5.jpg)
-![ImagenPages6](./Imagenes/pages6.jpg)
+![ImagenPages5](./Imagenes/pages5.png)
+![ImagenPages6](./Imagenes/pages6.png)
 # Campos de los que hablaremos
 Aquí tenemos los apartados donde hablamos de como ha afectado la IA en los diferentes sectores nombrados en la siguiente lista.
 1. [Xarxes](./Enlaces/3/XARXES.md)
