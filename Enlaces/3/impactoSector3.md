@@ -1,4 +1,5 @@
 ## Impacto de Cisco DNA Center en el sector de redes:
+![alt text](../../Imagenes/inteligencia-artificial-redes-sociales.jpg)
 Aquí hablaremos sobre el impacto de Cisco DNA Center en este sector, redes informaticas.
 
 ### Impacto en el sector:
