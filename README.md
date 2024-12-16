@@ -5,3 +5,4 @@ Aquí tenemos los apartados donde hablamos de como ha afectado la IA en los dife
 3. [Soporte Tecnico](./Enlaces/1/1.md)
 4. [Anàlisis de datos](./Enlaces/4/Anàlisis_de_dades4.md)
 5. [Desarrollo](./Enlaces/5/5.md)
+6. [Pasos para añadir tu proyecto a GitHub](./Pages.md)
