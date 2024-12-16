@@ -11,10 +11,10 @@ Para este sector nos enfocaremos en una IA en específica, esta será **Cisco DN
 ![alt text](../../Imagenes/09768edd82b5370215a0727658047fdd.png)
 
 ### Enlaces a las páginas con información sobre la IA:
-- [Aplicaciones de las IA en las redes](./Enlaces/aplicacionesIA3.md)
-- [Impacto en el Sector](./Enlaces/impactoSector3.md)
-- [Impacto Ambiental](./Enlaces/impactoAmbiental3.md)
-- [Propuestas para minimizar el impacto ambiental](./Enlaces/minimizar3.md)
+- [Aplicaciones de las IA en las redes](./aplicacionesIA3.md)
+- [Impacto en el Sector](./impactoSector3.md)
+- [Impacto Ambiental](./impactoAmbiental3.md)
+- [Propuestas para minimizar el impacto ambiental](./minimizar3.md)
 
 
 ## Conclusión final de los temas anteriormente mencionados:
