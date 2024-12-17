@@ -1,5 +1,5 @@
 # Impacto de las IA en las redes
-## Grupo 1:
+## <span style="color: red;">Grupo 1:</span>
 _Compuesto por Dylan, Manuel, Roberto y Adrià_ 
 ![ImagenGrupo1](../../Imagenes/hq720.jpg)
 ### Sobre que hablaré:
